@@ -8,3 +8,5 @@ some of it. She's really nice and i'm having a challenging in a good way time na
 got Github setup. So lunch break, and off to day two. I think skipping the README.md for now is what'll work best
 and try CSS.
 Just finished the HTML pages- After standup, we'll start working on this.
+
+Standup - Elena Wadsworth is our Student Advisor
