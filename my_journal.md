@@ -10,3 +10,5 @@ and try CSS.
 Just finished the HTML pages- After standup, we'll start working on this.
 
 Standup - Elena Wadsworth is our Student Advisor
+
+At about 3:30 we started to split. After finding out what exactly needs to be explored by us, we felt the last hour should be spent catching up to todays plan. I need to memorize basic html setup; practice git and github updates/learn more about git and github, followup with html/css inspector view, and read tomorrows plan as well. Three things, 4 hours left in the day. Ready, BREAK!
