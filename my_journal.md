@@ -10,3 +10,5 @@ Standup - Elena Wadsworth is our Student Advisor
 At about 3:30 we started to split. After finding out what exactly needs to be explored by us, we felt the last hour should be spent catching up to todays plan. I need to memorize basic html setup; practice git and github updates/learn more about git and github, followup with html/css inspector view, and read tomorrows plan as well. Three things, 4 hours left in the day. Ready, BREAK!
 
 Finished the day with some hiccups, but I'm back at night. The plan is listed above. Lets add one thing to the begining which is browsing through the pages and seeing what concepts I may have missed, or still don't quite comprehend. And we'll finish up by adding another task at the end which is going through the Discord chat logs. Remember 
+
+Getting late. I still need to clone and fork, and read other peoples readme's for example. I also started using the sourcecode menu buttons on the left side panel. Not sure if its a good practice or not yet.
